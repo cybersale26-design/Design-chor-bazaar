@@ -1,0 +1,1 @@
+export const products=[{id:1,title:'Vintage Gramophone',price:4500}]

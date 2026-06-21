@@ -1,1 +1,1 @@
-# Design-chor-bazaar
+# Digital Chor Bazaar Full Project\nUpload to GitHub and deploy on Vercel.
