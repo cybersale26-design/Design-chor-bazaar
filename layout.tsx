@@ -1,1 +1,0 @@
-import "./globals.css"; export const metadata={title:"Digital Chor Bazaar"}; export default function RootLayout({children}:{children:React.ReactNode}){return <html><body>{children}</body></html>}
